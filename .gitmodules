@@ -12,3 +12,8 @@
 	path = sales_commission_user_partner
 	url = git@github.com:xmarts/sales_commission_user_partner.git
 	branch = master
+
+[submodule "ninja_dashboard"]
+	path = ninja_dashboard
+	url = git@github.com:viernes/ninja_dashboard.git
+	branch = V13
