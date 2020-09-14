@@ -17,3 +17,6 @@
 	path = ninja_dashboard
 	url = git@github.com:viernes/ninja_dashboard.git
 	branch = V13
+[submodule "discount-two-level"]
+	path = discount-two-level
+	url = git@github.com:victoralonsosoto/discount-two-level.git
