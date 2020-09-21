@@ -20,3 +20,6 @@
 [submodule "discount-two-level"]
 	path = discount-two-level
 	url = git@github.com:victoralonsosoto/discount-two-level.git
+[submodule "ruta-gps-task"]
+	path = ruta-gps-task
+	url = git@github.com:victoralonsosoto/ruta-gps-task.git
