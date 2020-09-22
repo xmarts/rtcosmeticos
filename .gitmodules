@@ -23,3 +23,18 @@
 [submodule "ruta-gps-task"]
 	path = ruta-gps-task
 	url = git@github.com:victoralonsosoto/ruta-gps-task.git
+[submodule "crm-task"]
+	path = crm-task
+	url = git@github.com:victoralonsosoto/crm-task.git
+[submodule "front-home-customer"]
+	path = front-home-customer
+	url = git@github.com:victoralonsosoto/front-home-customer.git
+[submodule "customer-number"]
+	path = customer-number
+	url = git@github.com:victoralonsosoto/customer-number.git
+[submodule "sales-frequency"]
+	path = sales-frequency
+	url = git@github.com:victoralonsosoto/sales-frequency.git
+[submodule "vat_to_rfc"]
+	path = vat_to_rfc
+	url = git@github.com:victoralonsosoto/vat_to_rfc.git
