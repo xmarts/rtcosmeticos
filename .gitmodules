@@ -38,3 +38,9 @@
 [submodule "vat_to_rfc"]
 	path = vat_to_rfc
 	url = git@github.com:victoralonsosoto/vat_to_rfc.git
+[submodule "ruta-gps-contact"]
+	path = ruta-gps-contact
+	url = git@github.com:victoralonsosoto/ruta-gps-contact.git
+[submodule "ruta-gps-crm"]
+	path = ruta-gps-crm
+	url = git@github.com:victoralonsosoto/ruta-gps-crm.git
