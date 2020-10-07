@@ -44,3 +44,9 @@
 [submodule "ruta-gps-crm"]
 	path = ruta-gps-crm
 	url = git@github.com:victoralonsosoto/ruta-gps-crm.git
+[submodule "sh-whatsapp-integration"]
+	path = sh-whatsapp-integration
+	url = git@github.com:xmarts/sh-whatsapp-integration.git
+[submodule "odoo-backend-fb-chat-integration"]
+	path = odoo-backend-fb-chat-integration
+	url = git@github.com:xmarts/odoo-backend-fb-chat-integration.git
