@@ -50,3 +50,21 @@
 [submodule "odoo-backend-fb-chat-integration"]
 	path = odoo-backend-fb-chat-integration
 	url = git@github.com:xmarts/odoo-backend-fb-chat-integration.git
+[submodule "web-listview-sticky-header"]
+	path = web-listview-sticky-header
+	url = git@github.com:victoralonsosoto/web-listview-sticky-header.git
+[submodule "time-planner"]
+	path = time-planner
+	url = git@github.com:victoralonsosoto/time-planner.git
+[submodule "last-contact"]
+	path = last-contact
+	url = git@github.com:victoralonsosoto/last-contact.git
+[submodule "historical-sales"]
+	path = historical-sales
+	url = git@github.com:victoralonsosoto/historical-sales.git
+[submodule "las-sale-payment"]
+	path = las-sale-payment
+	url = git@github.com:victoralonsosoto/las-sale-payment.git
+[submodule "general-frecuence-sale"]
+	path = general-frecuence-sale
+	url = git@github.com:victoralonsosoto/general-frecuence-sale.git
