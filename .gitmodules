@@ -68,3 +68,8 @@
 [submodule "general-frecuence-sale"]
 	path = general-frecuence-sale
 	url = git@github.com:victoralonsosoto/general-frecuence-sale.git
+
+[submodule "bi_drag_drop_multi_attachment"]
+	path = bi_drag_drop_multi_attachment
+	url = git@github.com:xmarts/bi_drag_drop_multi_attachment.git
+	branch = main
