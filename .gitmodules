@@ -76,3 +76,6 @@
 [submodule "auto_sales_process"]
 	path = auto_sales_process
 	url = git@github.com:BIOFHE/auto_sales_process.git
+[submodule "sales-commission-extend"]
+	path = sales-commission-extend
+	url = git@github.com:victoralonsosoto/sales-commission-extend.git
