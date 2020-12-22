@@ -79,3 +79,6 @@
 [submodule "sales-commission-extend"]
 	path = sales-commission-extend
 	url = git@github.com:victoralonsosoto/sales-commission-extend.git
+[submodule "cancel-sale-order"]
+	path = cancel-sale-order
+	url = git@github.com:victoralonsosoto/cancel-sale-order.git
