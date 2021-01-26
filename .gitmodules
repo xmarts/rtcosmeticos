@@ -82,6 +82,3 @@
 [submodule "cancel-sale-order"]
 	path = cancel-sale-order
 	url = git@github.com:victoralonsosoto/cancel-sale-order.git
-[submodule "pdf-import"]
-	path = pdf-import
-	url = https://github.com/victoralonsosoto/pdf-import.git
