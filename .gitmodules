@@ -88,3 +88,6 @@
 [submodule "pdf-import"]
 	path = pdf-import
 	url = git@github.com:victoralonsoxmarts/pdf-import.git
+[submodule "activos-fijos"]
+	path = activos-fijos
+	url = git@github.com:victoralonsoxmarts/activos-fijos.git
