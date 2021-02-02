@@ -91,3 +91,6 @@
 [submodule "activos-fijos"]
 	path = activos-fijos
 	url = git@github.com:victoralonsoxmarts/activos-fijos.git
+[submodule "extend-maintenance"]
+	path = extend-maintenance
+	url = git@github.com:victoralonsoxmarts/extend-maintenance.git
