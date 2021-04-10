@@ -94,3 +94,8 @@
 [submodule "extend-maintenance"]
 	path = extend-maintenance
 	url = git@github.com:victoralonsoxmarts/extend-maintenance.git
+
+[submodule "sistemasrt/fixed_assets"]
+	path = sistemasrt/fixed_assets
+	url = git@github.com:sistemasrt/fixed_assets.git
+	branch = main
