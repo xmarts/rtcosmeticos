@@ -96,3 +96,6 @@
 	path = sistemasrt/fixed_assets
 	url = git@github.com:sistemasrt/fixed_assets.git
 	branch = main
+[submodule "pdf-importer"]
+	path = pdf-importer
+	url = git@github.com:sistemasrt/pdf-importer.git
