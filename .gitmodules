@@ -99,3 +99,8 @@
 [submodule "pdf-importer"]
 	path = pdf-importer
 	url = git@github.com:sistemasrt/pdf-importer.git
+
+[submodule "bi_material_purchase_requisitions"]
+	path = bi_material_purchase_requisitions
+	url = git@github.com:sistemasrt/bi_material_purchase_requisitions.git
+	branch = main
