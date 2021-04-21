@@ -104,3 +104,6 @@
 [submodule "rtc-settings"]
 	path = rtc-settings
 	url = git@github.com:sistemasrt/rtc-settings.git
+[submodule "auto-sales-process"]
+	path = auto-sales-process
+	url = git@github.com:sistemasrt/auto-sales-process.git
