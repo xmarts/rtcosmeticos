@@ -104,3 +104,6 @@
 	path = bi_material_purchase_requisitions
 	url = git@github.com:sistemasrt/bi_material_purchase_requisitions.git
 	branch = main
+[submodule "rtc-settings"]
+	path = rtc-settings
+	url = git@github.com:sistemasrt/rtc-settings.git
