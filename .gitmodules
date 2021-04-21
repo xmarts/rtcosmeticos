@@ -73,9 +73,6 @@
 	path = bi_drag_drop_multi_attachment
 	url = git@github.com:xmarts/bi_drag_drop_multi_attachment.git
 	branch = main
-[submodule "auto_sales_process"]
-	path = auto_sales_process
-	url = git@github.com:BIOFHE/auto_sales_process.git
 [submodule "sales-commission-extend"]
 	path = sales-commission-extend
 	url = git@github.com:victoralonsosoto/sales-commission-extend.git
