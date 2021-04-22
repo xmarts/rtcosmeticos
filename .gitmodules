@@ -107,3 +107,8 @@
 [submodule "auto-sales-process"]
 	path = auto-sales-process
 	url = git@github.com:sistemasrt/auto-sales-process.git
+
+[submodule "prevent_create_new_product_from_order_lines"]
+	path = prevent_create_new_product_from_order_lines
+	url = git@github.com:sistemasrt/prevent_create_new_product_from_order_lines.git
+	branch = main
