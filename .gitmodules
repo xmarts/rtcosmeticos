@@ -112,3 +112,8 @@
 	path = prevent_create_new_product_from_order_lines
 	url = git@github.com:sistemasrt/prevent_create_new_product_from_order_lines.git
 	branch = main
+
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = git@github.com:OCA/account-financial-reporting.git
+	branch = 13.0
