@@ -26,9 +26,6 @@
 [submodule "crm-task"]
 	path = crm-task
 	url = git@github.com:victoralonsosoto/crm-task.git
-[submodule "front-home-customer"]
-	path = front-home-customer
-	url = git@github.com:victoralonsosoto/front-home-customer.git
 [submodule "customer-number"]
 	path = customer-number
 	url = git@github.com:victoralonsosoto/customer-number.git
