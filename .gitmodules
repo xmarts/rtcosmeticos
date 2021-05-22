@@ -127,3 +127,8 @@
 [submodule "front-home-customer"]
 	path = front-home-customer
 	url = git@github.com:sistemasrt/front-home-customer.git
+
+[submodule "default_mx_values"]
+	path = default_mx_values
+	url = git@github.com:sistemasrt/default_mx_values.git
+	branch = main
