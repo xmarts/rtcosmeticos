@@ -132,3 +132,8 @@
 	path = default_mx_values
 	url = git@github.com:sistemasrt/default_mx_values.git
 	branch = main
+
+[submodule "default_mx_values1"]
+	path = default_mx_values1
+	url = git@github.com:sistemasrt/default_mx_values.git
+	branch = main
